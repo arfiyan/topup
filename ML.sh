@@ -25,7 +25,7 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 
-figlet -f  "IND CYBER ARMY" | lolcat
+figlet   "Hack Diamon ML Vip" | lolcat
 
 echo "     =================================== $green"| lolcat 
 echo "    | Autor : Raden-Ar $green "| lolcat
@@ -38,8 +38,8 @@ echo ""
 echo ""
 
 echo "Gunakan dengan bijak" | lolcat
-echo "Jika terjadi Kehilangan Akun Ml Anda bukan salah saya Anjing" | lolcat
-
+echo "Jika terjadi Kehilangan Akun Ml Anda" | lolcat
+echi "bukan salah saya Anjing" | lolcat
 echo ""
 echo ""
 
