@@ -54,7 +54,7 @@ echo "loading.... $green "| lolcat
 sleep 1
 echo "10% $green "| lolcat
 sleep 1
-echi "25% $green "| lolcat
+echo "25% $green "| lolcat
 sleep 1
 echo "65% $green "| lolcat
 sleep 1
