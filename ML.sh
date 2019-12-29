@@ -25,7 +25,8 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 
-figlet   "Hack Diamon ML Vip" | lolcat
+figlet   "Hack Vip" | lolcat
+figlet   "Diamon ML " 
 
 echo "     =================================== $green"| lolcat 
 echo "    | Autor : Raden-Ar $green "| lolcat
@@ -39,16 +40,24 @@ echo ""
 
 echo "Gunakan dengan bijak" | lolcat
 echo "Jika terjadi Kehilangan Akun Ml Anda" | lolcat
-echi "bukan salah saya Anjing" | lolcat
+echo "bukan salah saya Anjing" | lolcat
 echo ""
 echo ""
 
 echo "╭─[Masukan ID ML]$green "| lolcat
-read -p "╰─ID ML =" target;
+read -p "╰─ID ML =" |lolcat target;
 sleep 1
 echo "╭─[Masukan Jumlah Diamon] $green"| lolcat
-read -p "╰─jumlah Diamon=" file;
+read -p "╰─jumlah Diamon=" | lolcat file;
 sleep 1
-echo "loading.... $green "| lolcat 
+echo "loading.... $green "| lolcat
+sleep 1
+echo "10%"$green "| lolcat
+sleep 1
+echi "25%"$green "| lolcat
+sleep 1
+echo "65%"$green "| lolcat
+sleep 1
+echo "100%"$green "| lolcat
 sleep 1
 echo "Sukses Gan Cek akun ML anda" | lolcat
