@@ -45,19 +45,19 @@ echo ""
 echo ""
 
 echo "╭─[Masukan ID ML]$green "| lolcat
-read -p "╰─ID ML =" |lolcat target;
+read -p "╰─ID ML =" target;
 sleep 1
 echo "╭─[Masukan Jumlah Diamon] $green"| lolcat
-read -p "╰─jumlah Diamon=" | lolcat file;
+read -p "╰─jumlah Diamon=" file;
 sleep 1
 echo "loading.... $green "| lolcat
 sleep 1
-echo "10%"$green "| lolcat
+echo "10% $green "| lolcat
 sleep 1
-echi "25%"$green "| lolcat
+echi "25% $green "| lolcat
 sleep 1
-echo "65%"$green "| lolcat
+echo "65% $green "| lolcat
 sleep 1
-echo "100%"$green "| lolcat
+echo "100% $green "| lolcat
 sleep 1
 echo "Sukses Gan Cek akun ML anda" | lolcat
